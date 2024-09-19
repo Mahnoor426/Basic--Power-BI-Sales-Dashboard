@@ -1,28 +1,25 @@
+# Dashboard Explanation:
 
-## ROLE
+## Data Choice and Source
+The data used in this project was extracted from a YouTube tutorial. It provided a structured dataset suitable for analysis, including details like sales, revenue, products, and customers.
 
-Performed ETL 
+## Data Analysis and ETL
+Data Cleaning: Removal of empty or null values.
+Currency Conversion: All financial data was standardized to USD to simplify revenue calculations and comparisons.
 
-Created Dashboard
+## Dashboard Insights
+### Revenue and Sales Quantity:
+Revenue and sales quantities were tracked per year and month, showing the business performance trends.
+### Top 5 Products and Customers:
+Top 5 Products: Identified products contributing the most to sales.
+Top 5 Customers: Recognized customers providing the highest revenue.
+### Revenue Trends:
+The business showed a decline in revenue over the year, potentially due to lower sales of top-performing products.
 
-## DESCRIPTION
-
-Wanted to explore data analysis field and came across best YouTube lectures that help me better transform the data into visuals and give better understanding to business.
-
-I really wanted to help people and let them make better business decisions.
-
-## EXPLANATION OF PROJECT:
--How you chose data that could inform your analysis?
-Since this project is covered from a tutorial vedio so the data is extracted from a youtube tutorial.
-
-- Methods you used to analyze the data?Did you perform ETL?
-empty or null values were removed. All the currencies were converted into USD to easily generate Revenue.
-
--Observations and insights being captured from the dashboard?
-     *It was created due to stakeholders demand.
-     *They actually wanted to track revenue and Sales quantity that is generated per year and in each month in given city. 
-     * And then wanted to know that top 5 products and top 5 customers that give most to the business. 
-     * And by revenue trend, it shows that the business decline across this year() and also when looking at its top products they are in very less quantity.
+## KPI 
+Total Revenue: Sum of all revenue generated.
+Sales Quantity: Total quantity of products sold.
 
 ## DASHBOARD
-![image](https://github.com/user-attachments/assets/73b951d1-4b0a-4466-84e3-5a91a4b020e9)
+![image](https://github.com/user-attachments/assets/6a7cc89e-5148-4e91-8a6b-cf5956635242)
+![image](https://github.com/user-attachments/assets/33d52128-69d3-45fa-bea7-fb0a789de252)
